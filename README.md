@@ -1,7 +1,6 @@
 ![logo](https://github.com/Piyush066/Piyush066/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 <h3 align="center">A passionate Software Engineer and Video editor from India</h3>
-
 <img align="right" alt="coding" width = "400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush066&label=Profile%20views&color=0e75b6&style=flat" alt="piyush066" /> </p>
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **rajpiyush9572@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h2X96RHDTgrbZvM4rehKv275lJMYAttZ/view?usp=sharing](https://drive.google.com/file/d/1h2X96RHDTgrbZvM4rehKv275lJMYAttZ/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/6OxFH](https://shorturl.at/6OxFH)
 
 - ⚡ Fun fact **I have a Good sense of Humor😉**
 
