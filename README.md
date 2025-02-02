@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **ML with Python and MySQL**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/rajpiyush9572](https://linktr.ee/rajpiyush9572)
+- 👨‍💻 All of my projects are available at [Portfolio](https://linktr.ee/rajpiyush9572)
 
 - 💬 Ask me about **Python , C++**
 
 - 📫 How to reach me **rajpiyush9572@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/6OxFH](https://shorturl.at/6OxFH)
+- 📄 Know about my experiences [Resume](https://shorturl.at/6OxFH)
 
 - ⚡ Fun fact **I have a Good sense of Humor😉**
 
