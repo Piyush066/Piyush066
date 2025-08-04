@@ -1,4 +1,4 @@
-![logo](https://github.com/Piyush066/Piyush066/blob/main/Green%20and%20Black%20Modern%20Gamer%20YouTube%20Banner.png)
+![logo](https://github.com/Piyush066/Piyush066/blob/main/Piyush%20banner.png)
 <h1 align="center">Hi 👋, I'm Piyush Raj</h1>
 <h3 align="center">A passionate Software Engineer and Video editor from India</h3>
 <img align="right" alt="coding" width = "400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
